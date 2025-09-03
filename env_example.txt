@@ -1,0 +1,9 @@
+# API Keys for Deal Finder App
+# Copy this file to .env and fill in your actual API keys
+
+# OpenAI API Key (required for AI chat functionality)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Tavily API Key (optional, for enhanced web search)
+# Get one at: https://tavily.com/
+TAVILY_API_KEY=your_tavily_api_key_here
